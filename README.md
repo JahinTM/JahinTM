@@ -15,7 +15,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahin_cgc_388_21)
 
 <a href="https://codeforces.com/profile/jahin_13">
-  <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+  <img src="https://raw.githubusercontent.com/jahin_13/ct-stats/main/output/max_rating.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=JahinTM&label=Profile%20views&color=0e75b6&style=flat" />
