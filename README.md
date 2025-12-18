@@ -9,23 +9,16 @@
 ---
 
 ## 🏆 Competitive Programming Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jahin_13)
+
+<p float="left">
+  <a href="https://codeforces.com/profile/jahin_13">
+    <img height="230px" src="https://raw.githubusercontent.com/jahin_13/ct-stats/main/output/light_card.svg" alt="Codeforces Statistics"/>
+  </a>
+</p>
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jahin_13)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/jahin_13/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahin_cgc_388_21)
-
-<a href="https://codeforces.com/profile/jahin_13">
-<br />
-<p float="left">
-    <a href="https://codeforces.com/profile/jahin_13">
-        <img height="230px" src="https://raw.githubusercontent.com/jahin_13/ct-stats/main/output/light_card.svg" alt="Codeforces Statistics"/>
-    </a>
-</p>
-<br/>
-<br/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=JahinTM&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
@@ -61,7 +54,7 @@
 
 ---
 
-## 📊 GitHub & CP Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JahinTM&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=JahinTM&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahinTM&theme=dark&hide_border=false&layout=compact)
