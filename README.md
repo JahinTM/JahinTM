@@ -15,13 +15,14 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahin_cgc_388_21)
 
 <a href="https://codeforces.com/profile/jahin_13">
-## 🏆 Codeforces
-
-[![Codeforces Logo](https://user-images.githubusercontent.com/83158398/234567890-123abcde-4567-89ab-cdef12345678.png)](https://codeforces.com/profile/jahin_13)  
-**Max Rating:** ![Codeforces Max Rating](https://raw.githubusercontent.com/jahin_13/ct-stats/main/output/max_rating.svg)
-
-
-
+<br />
+<p float="left">
+    <a href="https://codeforces.com/profile/jahin_13">
+        <img height="230px" src="https://raw.githubusercontent.com/jahin_13/ct-stats/main/output/light_card.svg" alt="Codeforces Statistics"/>
+    </a>
+</p>
+<br/>
+<br/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=JahinTM&label=Profile%20views&color=0e75b6&style=flat" />
