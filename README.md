@@ -63,8 +63,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=JahinTM&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahinTM&theme=dark&hide_border=false&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=JahinTM&icon=0&color=0)](https://visitcount.itsvg.in)
+---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahinTM&layout=compact&theme=dark)
 
 > **"Solve problems. Build skills. Repeat."**
