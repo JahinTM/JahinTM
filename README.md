@@ -61,7 +61,7 @@
 ## 📊 GitHub & CP Stats
 ![](https://github-readme-stats.vercel.app/api?username=JahinTM&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=JahinTM&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahinTM&theme=dark&hide_border=false&layout=compact)
+
 
 ---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahinTM&layout=compact&theme=dark)
 
